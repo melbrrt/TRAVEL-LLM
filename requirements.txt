@@ -2,6 +2,5 @@ flask
 flask-cors
 pandas
 numpy
-sentence-transformers
-torch
+scikit-learn
 gunicorn
